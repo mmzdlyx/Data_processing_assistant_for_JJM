@@ -1,4 +1,4 @@
-Hi ALL：
+Introduction：
 
 Data_processing_assistant_for_JJM是一个数据处理助手，它可以用来处理CP、FT、可靠性数据，目的是用来提高数据处理效率。
 1. 对于CP数据，该助手可以提取良率、画概率分布图（选择By wafer或者By lot）、画正态分布图同时计算cp cpk（该功能目前不成熟）、画Map、输出PPT。
